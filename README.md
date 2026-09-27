@@ -322,7 +322,7 @@ Handles category movement, staff assignment, permission synchronization, ticket 
 
 # `// NETWORK ACTIVITY`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dogedev21&bg_color=020617&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true&custom_title=SYSTEM%20ACTIVITY"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dogedev21&bg_color=020617&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true&custom_title=SYSTEM%20ACTIVITY" alt="dogedev21 activity graph"/>
 
 </div>
 
