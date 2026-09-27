@@ -1,10 +1,12 @@
 <div align="center">
+  <img src="./assets/banner.png" width="100%" alt="dogedev21 banner">
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18,20,24&text=DOGEDEV21&fontSize=72&fontAlignY=35&fontColor=67e8f9&animation=fadeIn&desc=SYSTEMS%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20FIVEM%20%E2%80%A2%20INFRASTRUCTURE&descSize=17&descAlignY=55&descAlign=50"/>
+### Systems • Automation • FiveM • Infrastructure
+
+</div>
 
 <a href="https://github.com/dogedev21">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=850&height=70&lines=%3E+booting+dogedev21...;%3E+loading+systems...+%5BOK%5D;%3E+loading+automation...+%5BOK%5D;%3E+loading+infrastructure...+%5BOK%5D;%3E+probably+breaking+the+homelab...;%3E+SYSTEM+READY+_" alt="Typing SVG" />
