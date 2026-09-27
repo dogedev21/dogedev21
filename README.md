@@ -6,7 +6,7 @@
 
 ### Systems • Automation • FiveM • Infrastructure
 
-</div>
+
 
 <a href="https://github.com/dogedev21">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=850&height=70&lines=%3E+booting+dogedev21...;%3E+loading+systems...+%5BOK%5D;%3E+loading+automation...+%5BOK%5D;%3E+loading+infrastructure...+%5BOK%5D;%3E+probably+breaking+the+homelab...;%3E+SYSTEM+READY+_" alt="Typing SVG" />
