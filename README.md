@@ -1,307 +1,408 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=DOGEDEV21&fontAlign=50&fontAlignY=38&desc=SYSTEMS%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20FIVEM&descAlign=50&descAlignY=58&color=0:020617,45:0f172a,100:0891b2&fontColor=e2e8f0&descColor=67e8f9&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18,20,24&text=DOGEDEV21&fontSize=72&fontAlignY=35&fontColor=67e8f9&animation=fadeIn&desc=SYSTEMS%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20FIVEM%20%E2%80%A2%20INFRASTRUCTURE&descSize=17&descAlignY=55&descAlign=50"/>
 
 <a href="https://github.com/dogedev21">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=%3E+Initializing+dogedev21...;%3E+Systems+%7C+Automation+%7C+FiveM;%3E+Building+tools+that+solve+real+problems.;%3E+Breaking+things+is+part+of+the+documentation." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=850&height=70&lines=%3E+booting+dogedev21...;%3E+loading+systems...+%5BOK%5D;%3E+loading+automation...+%5BOK%5D;%3E+loading+infrastructure...+%5BOK%5D;%3E+probably+breaking+the+homelab...;%3E+SYSTEM+READY+_" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=dogedev21&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2" />
-<img src="https://img.shields.io/github/followers/dogedev21?label=FOLLOWERS&style=for-the-badge&color=0891b2" />
-<img src="https://img.shields.io/github/stars/dogedev21?affiliations=OWNER&label=STARS&style=for-the-badge&color=0891b2" />
-
-</div>
-
----
-
-```console
-doge@github:~$ whoami
-
-  ██████╗  ██████╗  ██████╗ ███████╗
-  ██╔══██╗██╔═══██╗██╔════╝ ██╔════╝
-  ██║  ██║██║   ██║██║  ███╗█████╗
-  ██║  ██║██║   ██║██║   ██║██╔══╝
-  ██████╔╝╚██████╔╝╚██████╔╝███████╗
-  ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝
-
-  USER        dogedev21
-  ROLE        Systems Builder / Developer
-  FOCUS       Automation • Infrastructure • FiveM
-  OS          Windows / Linux
-  SHELL       PowerShell / Bash
-  STATUS      [ ONLINE ]
-```
-
-## `// ABOUT`
-
-```javascript
-const doge = {
-    focus: [
-        "Systems Administration",
-        "Automation",
-        "FiveM Development",
-        "Discord Infrastructure"
-    ],
-
-    building: [
-        "Discord automation systems",
-        "QBCore resources",
-        "Administrative tooling",
-        "Homelab infrastructure"
-    ],
-
-    philosophy: "If I have to do it twice, I'm probably automating it."
-};
-```
-
-I like building things that sit somewhere between **development and infrastructure**.
-
-That means automation, server tooling, Discord systems, FiveM resources, homelabs, networking, and finding increasingly unnecessary ways to automate something that took thirty seconds manually.
-
----
-
-## `// LOADOUT`
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=js,lua,powershell,html,css&theme=dark" />
-
-### `DEVELOPMENT`
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,vite,git,github,vscode&theme=dark" />
-
-### `INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker&theme=dark" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22d3ee?style=for-the-badge&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=dogedev21&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2&labelColor=020617"/>
+<img src="https://img.shields.io/github/followers/dogedev21?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=020617"/>
+<img src="https://img.shields.io/github/stars/dogedev21?affiliations=OWNER&label=STARS&style=for-the-badge&color=0891b2&labelColor=020617"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/MECM_/_SCCM-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/QBCore-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TERMINAL                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `root@dogedev21:~# ./whoami`
+
+```ansi
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   ██████╗  ██████╗  ██████╗ ███████╗██████╗ ███████╗██╗   ██╗     │
+│   ██╔══██╗██╔═══██╗██╔════╝ ██╔════╝██╔══██╗██╔════╝██║   ██║     │
+│   ██║  ██║██║   ██║██║  ███╗█████╗  ██║  ██║█████╗  ██║   ██║     │
+│   ██║  ██║██║   ██║██║   ██║██╔══╝  ██║  ██║██╔══╝  ╚██╗ ██╔╝     │
+│   ██████╔╝╚██████╔╝╚██████╔╝███████╗██████╔╝███████╗ ╚████╔╝      │
+│   ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═════╝ ╚══════╝  ╚═══╝       │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   USER       dogedev21                                               │
+│   CLASS      Systems Builder                                         │
+│   FOCUS      Infrastructure / Automation / FiveM                     │
+│   SHELL      PowerShell + Bash                                       │
+│   OS         Windows Server + Linux                                  │
+│   STATE      ● ONLINE                                                │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+### `BUILD // BREAK // DEBUG // AUTOMATE`
+
+</div>
+
+I build things where **development meets infrastructure** — automation systems, Discord tooling, FiveM resources, server infrastructure, homelabs, and utilities designed to eliminate repetitive work.
+
+```javascript
+const dogedev21 = {
+    role: "Systems Builder",
+
+    interests: [
+        "Systems Administration",
+        "Infrastructure",
+        "Automation",
+        "Networking",
+        "FiveM Development",
+        "Homelabs"
+    ],
+
+    currentlyBuilding: [
+        "Discord automation",
+        "QBCore resources",
+        "Administrative tooling",
+        "Server infrastructure"
+    ],
+
+    rule: "If I have to do it twice, automate it."
+};
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# `// TECHNOLOGY LOADOUT`
+
+### `{ DEVELOPMENT }`
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,lua,powershell,html,css,react,vite&theme=dark&perline=8" />
+
+<br>
+
+### `{ INFRASTRUCTURE }`
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,nginx&theme=dark&perline=8" />
+
+<br>
+
+### `{ TOOLCHAIN }`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MECM_%2F_SCCM-22D3EE?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/PROXMOX-E57000?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=020617"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FIVEM-F40552?style=for-the-badge&logo=fivem&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/QBCORE-22D3EE?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=020617"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# `// ACTIVE SYSTEMS`
+
+```text
+╭──────────────────────────────────────────────────────────────────╮
+│                    DOGEDEV21 // SYSTEM INDEX                     │
+├──────┬───────────────────────────────┬─────────────┬──────────────┤
+│ ID   │ SYSTEM                        │ ACCESS      │ STATE        │
+├──────┼───────────────────────────────┼─────────────┼──────────────┤
+│ 001  │ doge_jobmail                  │ PUBLIC      │ ● ONLINE     │
+│ 002  │ SAMS Nexus                    │ PRIVATE     │ ● ACTIVE     │
+│ 003  │ Ticket Category Manager       │ PRIVATE     │ ● ACTIVE     │
+│ 004  │ FiveM Infrastructure          │ PRIVATE     │ ● BUILDING   │
+╰──────┴───────────────────────────────┴─────────────┴──────────────╯
+```
+
 ---
 
-## `// SYSTEMS`
+## `SYS.001 // DOGE_JOBMAIL`
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/STATUS-STABLE-22c55e?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ACCESS-PUBLIC-22d3ee?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/PLATFORM-QBCORE-0891b2?style=flat-square&labelColor=020617"/>
+
+</div>
+
+### QBCore × LB Phone Employment Automation
+
+Automatically delivers immersive in-game emails when employment events occur through `qb-management`.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  DOGEDEV21 // PROJECT INDEX                                 │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] DOGE_JOBMAIL                         PUBLIC            │
-│       QBCore × LB Phone Integration                          │
-│       Lua • FiveM • QBCore                                   │
-│                                                              │
-│  [02] SAMS NEXUS                           PRIVATE           │
-│       Discord Operations & Automation Platform               │
-│       Node.js • Discord.js • Automation                      │
-│                                                              │
-│  [03] TICKET CATEGORY MANAGER               PRIVATE           │
-│       Automated Discord Ticket Infrastructure                │
-│       Node.js • Discord.js                                   │
-│                                                              │
-│  [04] FIVEM INFRASTRUCTURE                  ACTIVE            │
-│       Custom QBCore Servers & Resources                      │
-│       Lua • JS • Server Administration                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                            ┌──────────────┐
+                     ┌─────►│    HIRED     │
+                     │      └──────┬───────┘
+                     │             │
+                     │      ┌──────▼───────┐
+                     ├─────►│   PROMOTED   │
+                     │      └──────┬───────┘
+                     │             │
+┌──────────────┐     │      ┌──────▼───────┐     ┌──────────────┐
+│ QB-MANAGEMENT├─────┼─────►│ DOGE_JOBMAIL ├────►│   LB PHONE   │
+└──────────────┘     │      └──────▲───────┘     └──────┬───────┘
+                     │             │                    │
+                     │      ┌──────┴───────┐            ▼
+                     ├─────►│   DEMOTED    │        [ PLAYER ]
+                     │      └──────────────┘
+                     │
+                     │      ┌──────────────┐
+                     └─────►│  TERMINATED  │
+                            └──────────────┘
 ```
 
-### `01 // doge_jobmail`
-
-> **QBCore employment notifications through LB Phone**
-
-Automatically delivers in-game email notifications when a player is **hired, promoted, demoted, or terminated** through `qb-management`.
-
-```text
-EVENT
-  │
-  ├── HIRE ──────────────┐
-  ├── PROMOTION ─────────┤
-  ├── DEMOTION ──────────┼──► doge_jobmail ──► LB PHONE ──► PLAYER
-  └── TERMINATION ───────┘
-```
-
-**`Lua`** · **`QBCore`** · **`LB Phone`** · **`FiveM`**
+`Lua` · `QBCore` · `qb-management` · `LB Phone`
 
 <a href="https://github.com/dogedev21/doge_jobmail">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
 </a>
 
 ---
 
-### `02 // SAMS NEXUS`
+## `SYS.002 // SAMS NEXUS`
 
-> **Modular Discord operations platform**
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22c55e?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ACCESS-PRIVATE-64748b?style=flat-square&labelColor=020617"/>
+
+### Modular Discord Operations Platform
 
 ```text
-SAMS NEXUS
-│
-├── FTO REQUESTS
-│   ├── Request handling
-│   ├── Acceptance / cancellation
-│   └── Automatic expiration
-│
-├── PROMOTIONS
-│   ├── Rank management
-│   ├── Role automation
-│   └── Announcements
-│
-├── EVENTS
-│   ├── Calendar
-│   ├── RSVP
-│   └── Reminders
-│
-├── ADMINISTRATION
-│   └── Administrative controls
-│
-└── ANALYTICS
-    ├── Counters
-    ├── Persistence
-    └── Activity tracking
+                       ┌─────────────────────┐
+                       │      SAMS NEXUS     │
+                       │     CORE ROUTER     │
+                       └──────────┬──────────┘
+                                  │
+          ┌───────────────┬───────┼───────┬───────────────┐
+          ▼               ▼       ▼       ▼               ▼
+     ┌─────────┐     ┌─────────┐ ┌─────┐ ┌─────────┐ ┌─────────┐
+     │   FTO   │     │ PROMO   │ │ADMIN│ │ EVENTS  │ │ANALYTICS│
+     └────┬────┘     └────┬────┘ └──┬──┘ └────┬────┘ └────┬────┘
+          │               │          │         │           │
+          ▼               ▼          ▼         ▼           ▼
+      REQUESTS         ROLES       CONTROL    RSVP       METRICS
+      THREADS          RANKS       LOGGING    ALERTS     PRESENCE
+      TIMEOUTS         ALERTS      ACTIONS    CLEANUP    STORAGE
 ```
 
-**`Node.js`** · **`Discord.js`** · **`Automation`**
+Built around modular systems rather than one giant bot file.
 
-`STATUS: PRIVATE`
+`Node.js` · `Discord.js` · `Automation` · `Event Systems`
 
 ---
 
-### `03 // TICKET CATEGORY MANAGER`
+## `SYS.003 // TICKET CATEGORY MANAGER`
 
-> **Discord ticket workflow automation**
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22c55e?style=flat-square&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ACCESS-PRIVATE-64748b?style=flat-square&labelColor=020617"/>
 
-Designed to operate alongside existing ticket systems while providing staff-specific ticket management.
+### Discord Ticket Workflow Engine
 
 ```bash
-/ticket claim
-/ticket unclaim
-/ticket transfer
-/ticket status
+doge@discord:~$ ticketctl --help
+
+COMMAND                 ACTION
+────────────────────────────────────────────────────────
+/ticket claim           Assign + relocate ticket
+/ticket unclaim         Restore original ticket state
+/ticket transfer        Transfer ticket ownership
+/ticket status          Inspect current assignment
+
+/ticketsetup             Configure workflow infrastructure
 ```
 
-Handles category movement, permission synchronization, staff assignment, transfers, and restoration of the ticket's original permission state.
+Handles category movement, staff assignment, permission synchronization, ticket transfers, and restoration of original channel permissions.
 
-**`Node.js`** · **`Discord.js`** · **`Permissions`** · **`Workflow Automation`**
-
-`STATUS: PRIVATE`
-
----
-
-## `// INFRASTRUCTURE`
-
-```yaml
-homelab:
-  virtualization:
-    - Proxmox
-
-  windows:
-    - Active Directory
-    - Windows Server
-    - MECM / SCCM
-    - Group Policy
-    - PowerShell
-
-  networking:
-    - DNS
-    - DHCP
-    - PXE
-    - Routing
-    - Troubleshooting
-
-development:
-  backend:
-    - Node.js
-    - JavaScript
-    - Lua
-
-  platforms:
-    - Discord
-    - FiveM
-    - QBCore
-
-  tools:
-    - Git
-    - GitHub
-    - VS Code
-```
-
----
-
-## `// TELEMETRY`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=dogedev21&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=0891b2&text_color=94a3b8&ring_color=22d3ee&rank_icon=github" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogedev21&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=94a3b8" />
+`Node.js` · `Discord.js` · `Permission Management` · `Automation`
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=dogedev21&hide_border=true&background=020617&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        INFRASTRUCTURE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</div>
+# `// HOMELAB NETWORK`
 
----
-
-## `// ACTIVITY`
+```text
+                         ┌──────────────────────┐
+                         │       INTERNET       │
+                         └──────────┬───────────┘
+                                    │
+                              ┌─────▼─────┐
+                              │  ROUTING  │
+                              └─────┬─────┘
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+          ┌───────▼────────┐                  ┌───────▼────────┐
+          │ WINDOWS DOMAIN │                  │    PROXMOX     │
+          │                │                  │                │
+          │  AD DS         │                  │ Virtualization │
+          │  DNS           │                  │ VM Hosting     │
+          │  DHCP          │                  │ Linux Systems  │
+          │  GPO           │                  └────────────────┘
+          └───────┬────────┘
+                  │
+         ┌────────┴─────────┐
+         │                  │
+ ┌───────▼────────┐ ┌───────▼────────┐
+ │      MECM      │ │    CLIENTS     │
+ │                │ │                │
+ │ PXE / OSD      │ │ Windows       │
+ │ Applications   │ │ Managed PCs   │
+ │ Management     │ │ Lab Systems   │
+ └────────────────┘ └────────────────┘
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dogedev21&bg_color=020617&color=94a3b8&line=22d3ee&point=e2e8f0&area=true&hide_border=true" width="100%" />
+`ACTIVE DIRECTORY` • `MECM` • `PROXMOX` • `DNS` • `DHCP` • `PXE` • `GPO` • `POWERSHELL`
 
 </div>
 
----
+<br>
 
-## `// CURRENT OBJECTIVES`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TELEMETRY                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# `// LIVE TELEMETRY`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dogedev21&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&ring_color=0891B2&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogedev21&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=94A3B8&langs_count=8"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=dogedev21&hide_border=true&background=020617&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=475569&currStreakNum=E2E8F0&sideNums=E2E8F0"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION GRAPH                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# `// NETWORK ACTIVITY`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dogedev21&bg_color=020617&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true&custom_title=SYSTEM%20ACTIVITY"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# `// CONTRIBUTION MATRIX`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dogedev21/dogedev21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dogedev21/dogedev21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dogedev21/dogedev21/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       OBJECTIVES                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# `// ACTIVE OBJECTIVES`
 
 ```diff
-+ Building better Discord automation systems
-+ Developing FiveM / QBCore resources
-+ Expanding homelab infrastructure
-+ Automating repetitive administrative workflows
++ [ONLINE]  Build better Discord automation
++ [ONLINE]  Develop FiveM / QBCore resources
++ [ONLINE]  Expand homelab infrastructure
++ [ONLINE]  Automate repetitive workflows
 
-> Improving system architecture
-> Learning more enterprise infrastructure
-> Building cleaner backend systems
+! [LEARN]   System architecture
+! [LEARN]   Enterprise infrastructure
+! [LEARN]   Networking
+! [LEARN]   Backend development
 
-- Doing repetitive work manually
+- [DENIED]  Doing the same thing manually twice
 ```
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         STATUS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>📡 &nbsp; SYSTEM INFORMATION</b></summary>
+<summary><b>⚡ &nbsp; OPEN SYSTEM DIAGNOSTICS</b></summary>
 
 <br>
 
 ```text
-NODE              dogedev21
-STATE             ONLINE
-PRIMARY ROLE      Systems / Automation Developer
-
-INTERESTS
-├── Systems Administration
-├── Infrastructure
-├── Networking
-├── Automation
-├── FiveM Development
-└── Homelabs
-
-UPTIME            ███████████████████░  probably too long
-COFFEE            ████████████████████  critical dependency
-BROKEN THINGS     ███████████░░░░░░░░░  within tolerance
+╭────────────────── DOGEDEV21 SYSTEM MONITOR ──────────────────╮
+│                                                              │
+│  NODE             dogedev21                                  │
+│  STATE            ● ONLINE                                   │
+│  SECURITY         ███████████████████░    95%                │
+│  AUTOMATION       ████████████████████   100%                │
+│  HOMELAB          ████████████████░░░░    82%                │
+│  COFFEE           ████████████████████   100%                │
+│  SLEEP            █████░░░░░░░░░░░░░░░    24%                │
+│                                                              │
+│  UPTIME           probably too long                          │
+│  LAST INCIDENT    classified                                 │
+│  NEXT INCIDENT    inevitable                                 │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > ping infrastructure                                      │
+│    Reply: 1ms                                               │
+│                                                              │
+│  > check automation                                         │
+│    All systems operational.                                 │
+│                                                              │
+│  > check homelab                                            │
+│    ...                                                      │
+│    Define "operational."                                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 </details>
@@ -310,21 +411,26 @@ BROKEN THINGS     ███████████░░░░░░░░░  
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=700&lines=%24+build+it.;%24+break+it.;%24+figure+out+why.;%24+automate+the+fix.;%24+git+push+--force+%5Bprobably+don't%5D" />
+
+<br>
+
 ```text
-┌──────────────────────────────────────────┐
-│                                          │
-│   build it.                              │
-│   break it.                              │
-│   figure out why.                        │
-│   automate the fix.                      │
-│                                          │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║               END OF TRANSMISSION                    ║
+║                                                      ║
+║                github.com/dogedev21                   ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ### `doge@github:~$ █`
 
-<sub>Thanks for stopping by.</sub>
+<sub>There is a non-zero chance the homelab is currently on fire.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891b2,55:0f172a,100:020617" width="100%"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=24,20,18,14,12"/>
 
 </div>
